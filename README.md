@@ -1,5 +1,5 @@
 # Reconocedor_voz_binario
-CNN para reconocedor de voz simple entre dos personas. 
+CNN para reconocer hablantes.
 
 * Descargar los archivos wav de https://drive.google.com/file/d/1SD0d3CE-9_v9qBlylUeIrYs10QK5H_4l/view?usp=sharing
 * Descomprimir en la misma carpeta donde estan los demás archivos
